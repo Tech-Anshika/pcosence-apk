@@ -14,3 +14,10 @@ This repository contains the full **APK** of the app for direct installation.
 - **ESP32 Sensor Integration** (optional) – Step counting, calorie tracking, and data visualization.  
 
 ---
+## 🚀 Installation
+1. Download the latest APK from this repository (`/apk/PCOSence.apk` or release section).  
+2. Transfer the APK to your Android device.  
+3. Enable **Install from Unknown Sources** in device settings.  
+4. Open the APK file and install.  
+
+---
