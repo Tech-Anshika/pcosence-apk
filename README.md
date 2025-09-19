@@ -21,3 +21,10 @@ This repository contains the full **APK** of the app for direct installation.
 4. Open the APK file and install.  
 
 ---
+## 🛠️ Tech Stack
+- **Flutter & Dart** – Cross-platform mobile app development.  
+- **Firebase (optional)** – Authentication, database, and notifications.  
+- **Gemini / AI API** – For chatbot integration.  
+- **ESP32 Sensors** – For hardware-based health data collection.  
+
+---
