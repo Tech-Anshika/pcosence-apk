@@ -4,3 +4,13 @@ PCOSence is a Flutter-based mobile application designed to support women dealing
 This repository contains the full **APK** of the app for direct installation.
 
 ---
+## 📱 Features
+- **AI Chatbot Support** – Personalized guidance and answers to PCOS-related queries.  
+- **Cycle & Symptom Tracking** – Log menstrual cycle details, daily activities, and health symptoms.  
+- **Yoga & Exercise Guidance** – Suggested yoga poses and exercises with benefits tailored for PCOS.  
+- **Diet & Nutrition Plans** – Food recommendations based on health and menstrual cycle phases.  
+- **Progress Reports** – Track daily habits like exercise, medicine, diet, yoga, and steps.  
+- **Interactive Games** – Small games for awareness, education, and pain distraction.  
+- **ESP32 Sensor Integration** (optional) – Step counting, calorie tracking, and data visualization.  
+
+---
